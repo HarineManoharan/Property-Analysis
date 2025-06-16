@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Property Analysis", "Property Analysis\Property Analysis.dtproj", "{6EA276DE-F3BD-CA5A-2E11-100A939FC4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA276DE-F3BD-CA5A-2E11-100A939FC4DB}.Development|Default.ActiveCfg = Development
+		{6EA276DE-F3BD-CA5A-2E11-100A939FC4DB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62990E5D-2B0A-4CFA-A7C8-6A15C6C8BB60}
+	EndGlobalSection
+EndGlobal

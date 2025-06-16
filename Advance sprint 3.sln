@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Advance sprint 3", "Advance sprint 3.rptproj", "{944BB57A-C94E-4909-9600-DE6A242F328E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944BB57A-C94E-4909-9600-DE6A242F328E}.Debug|Default.ActiveCfg = Debug
+		{944BB57A-C94E-4909-9600-DE6A242F328E}.Debug|Default.Build.0 = Debug
+		{944BB57A-C94E-4909-9600-DE6A242F328E}.Debug|Default.Deploy.0 = Debug
+		{944BB57A-C94E-4909-9600-DE6A242F328E}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{944BB57A-C94E-4909-9600-DE6A242F328E}.DebugLocal|Default.Build.0 = DebugLocal
+		{944BB57A-C94E-4909-9600-DE6A242F328E}.DebugLocal|Default.Deploy.0 = DebugLocal
+		{944BB57A-C94E-4909-9600-DE6A242F328E}.Release|Default.ActiveCfg = Release
+		{944BB57A-C94E-4909-9600-DE6A242F328E}.Release|Default.Build.0 = Release
+		{944BB57A-C94E-4909-9600-DE6A242F328E}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29062A85-9708-4B93-8BF5-EE64E717E33D}
+	EndGlobalSection
+EndGlobal
