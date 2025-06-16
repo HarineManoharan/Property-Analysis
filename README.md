@@ -11,3 +11,14 @@ SSIS (SQL Server Integration Services): Employed for Extract, Transform, Load (E
 SSRS (SQL Server Reporting Services): Used for generating detailed reports and summaries, enabling users to access key metrics and insights on property analysis.
 
 Power BI: Provides interactive data visualizations, helping users explore trends and insights in an intuitive and dynamic way.
+📊 Features / Project Highlights
+Data cleaning and transformation
+
+Exploratory Data Analysis (EDA)
+
+Visualizations of property prices, distribution by region, and trends
+
+Correlation analysis between features like location, size, and price
+
+Interactive dashboard.
+![Dashboard Screenshot](./visuals/dashboard.png)
