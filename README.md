@@ -1,24 +1,26 @@
-Project Overview
-The Property Analysis Project is designed to help investors, real estate agents, and individuals make data-driven decisions about property investments by analyzing various factors that influence property values and investment potential. This tool integrates data on transportation stations, modes of transportation, crime incidents, rental values, house values, and local schools to provide a comprehensive analysis. By evaluating these factors, the project helps users assess the overall attractiveness and profitability of different properties, offering insights into neighborhood quality, safety, and potential return on investment (ROI).
-.
-Tech Stack
-This project utilizes a variety of tools and technologies to process, analyze, and visualize property-related data. The stack includes:
-
-SQL Server (SSMS): Used for database management and running SQL queries to retrieve and manage property-related data.
-
-SSIS (SQL Server Integration Services): Employed for Extract, Transform, Load (ETL) processes, to integrate and clean data from various sources before analysis.
-
-SSRS (SQL Server Reporting Services): Used for generating detailed reports and summaries, enabling users to access key metrics and insights on property analysis.
-
-Power BI: Provides interactive data visualizations, helping users explore trends and insights in an intuitive and dynamic way.
+🏡 Project Overview
+The Property Analysis Project is designed to assist investors, real estate agents, and individual buyers in making data-driven decisions about property investments. It analyzes a variety of factors that influence property values and investment potential.
+This project integrates data on:
+Transportation stations
+Modes of transportation
+Crime incidents
+Rental values
+House values
+Local schools
+By evaluating these factors, users can assess the overall attractiveness, safety, and profitability of properties, offering insights into neighborhood quality and potential return on investment (ROI).
+🧰 Tech Stack
+This project leverages the following tools and technologies for data management, transformation, analysis, and visualization:
+SQL Server (SSMS) – For database management and running complex SQL queries
+SSIS (SQL Server Integration Services) – For ETL (Extract, Transform, Load) processes, integrating and cleaning data from various sources
+SSRS (SQL Server Reporting Services) – For generating detailed, shareable reports with key property insights
+Power BI – For creating interactive dashboards and data visualizations
 📊 Features / Project Highlights
-Data cleaning and transformation
-
-Exploratory Data Analysis (EDA)
-
-Visualizations of property prices, distribution by region, and trends
-
-Correlation analysis between features like location, size, and price
-
-Interactive dashboard.
-![Dashboard Screenshot](./visuals/dashboard.png)
+✅ Data cleaning and transformation
+🔍 Exploratory Data Analysis (EDA)
+📈 Visualization of property prices, trends, and regional distribution
+📌 Correlation analysis between features like location, school proximity, and price
+📊 Interactive dashboard built with Power BI for user-friendly exploration
+🧠 Key Insights
+🏠 Average house prices are highest in Victoria, followed by South Australia and New South Wales
+🏫 Properties near schools and public transport tend to have higher market values
+📍 Neighborhood safety and amenities play a significant role in price variance
