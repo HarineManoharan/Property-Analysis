@@ -10,12 +10,12 @@ By evaluating these factors, users can assess the overall attractiveness, safety
 
 ## 🧰 Tech Stack
 This project leverages the following tools and technologies for data management, transformation, analysis, and visualization:
-**SQL Server (SSMS)** – For database management and running complex SQL queries
-**SSIS (SQL Server Integration Services)** – For ETL (Extract, Transform, Load) processes, integrating and cleaning data from various sources
-**SSRS (SQL Server Reporting Services)** – For generating detailed, shareable reports with key property insights
-**Power BI** – For creating interactive dashboards and data visualizations
+- **SQL Server (SSMS)** – For database management and running complex SQL queries
+- **SSIS (SQL Server Integration Services)** – For ETL (Extract, Transform, Load) processes, integrating and cleaning data from various sources
+- **SSRS (SQL Server Reporting Services)** – For generating detailed, shareable reports with key property insights
+- **Power BI** – For creating interactive dashboards and data visualizations
 
-## 📊 Features / Project Highlights
+## 📊 Project Highlights
 - Data cleaning and transformation
 - Exploratory Data Analysis (EDA)
 - Visualization of property prices, trends, and regional distribution
